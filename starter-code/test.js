@@ -7,11 +7,11 @@ describe('Array', function() {
         assert.equal("crocodile", apps.longestWord());
     });
 
-    it('should return 87 as sum of array elements', function(){
+    it('should return 43130880 as product of array elements', function(){
     assert.equal(43130880, apps.productArray());
     });
 
-    it('should return 5.3 as sum of array elements', function(){
+    it('should return 5.3 as average of array elements', function(){
         assert.equal(5.3, apps.averageWords());
     });
 

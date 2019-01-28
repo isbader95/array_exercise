@@ -2,6 +2,14 @@
 
 ## Class Work
 
+### Instructions
+- Fork the repo
+- pull starter-code to local machine
+- run `npm install`
+- start coding
+- when complete run `npm test` to test your code
+
+
 ### Submission
 Upon completion, run the following commands
 
@@ -37,6 +45,61 @@ output:
     xxxxx
 ```
 
+####  Compute the sum of the array below. 
+
+```
+let arr = [[2, 12], [3, 27], [5, 15]]
+```
+
+#### From the data below write a loop that displays only the names and year of people.
+
+#### write another loop that only name and adds 20 to the year
+
+```
+let sampleData = {
+    page: 1,
+    per_page: 3,
+    total: 12,
+    total_pages: 4,
+    people: [
+        {
+            id: 1,
+            name: "Suliatu Moji",
+            year: 2000,
+            color: "#98B2D1",
+            pantone_value: "15-4020"
+        },
+        {
+            "id": 2,
+            "name": "Maleek Berry",
+            "year": 2001,
+            "color": "#C74375",
+            "pantone_value": "17-2031"
+        },
+        {
+            "id": 3,
+            "name": "Khalid Mustafar",
+            "year": 2012,
+            "color": "#BF1932",
+            "pantone_value": "19-1664"
+        },
+        {
+            "id": 4,
+            "name": "Jaafar Abdul",
+            "year": 2001,
+            "color": "#C74375",
+            "pantone_value": "17-2031"
+        },
+        {
+            "id": 5,
+            "name": "Moheed Reema",
+            "year": 2021,
+            "color": "#C74375",
+            "pantone_value": "17-2031"
+        }
+    ]
+}
+```
 
 #### Further Resources
 
